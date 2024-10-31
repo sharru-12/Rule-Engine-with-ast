@@ -4,11 +4,8 @@
 
 ## Applicant Introduction
 
-Hi, I'm Subhodeep Manna, a Full-Stack Developer and AI enthusiast skilled in React, Next.js, Django, and machine learning. I'm currently working on projects like a College Directory App and a Seat Booking System, always eager to learn and innovate!
-[LinkedIn](https://www.linkedin.com/in/subhodeep21/).
-
+Hi, I'm shaik shareena, a Full-Stack Developer and AI enthusiast skilled in React, Next.js, Django, and machine learning. I'm currently working on projects like a College Directory App and a Seat Booking System, always eager to learn and innovatation
 ## Table of Contents
-
 - [Introduction](#introduction)
 - [Technical Parts](#technical-parts)
   - [Installation](#installation)
@@ -20,15 +17,11 @@ Hi, I'm Subhodeep Manna, a Full-Stack Developer and AI enthusiast skilled in Rea
   - [My Approach](#my-approach)
   - [Feedback](#feedback)
 - [Outro](#outro)
-
 ## Introduction
-
 > I read the assginment description a lot of times, so as to make sure I don't
 > miss on anything important.
-
 Most of the code I have written would seem like a story, so I made sure the README
 doesn't :D. Everything would mostly be in bullets hereafter:
-
 - code is heavily commented and accompany suitable docstrings (React code
   compatible with Doxygen, and Python code with Sphinx).
 - Unittests are written keeping in mind all edge cases that could occur, there are
